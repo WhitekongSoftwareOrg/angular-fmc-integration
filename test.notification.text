@@ -1,0 +1,25 @@
+Authorization key=AAAApwrUQw8:APA91bEVSiMM7_EF71-MzAMJ16h7WmQLHUDvvzELAMqQcOJKQ0PSaJ1e8d553MhuMI5gyzNOxEhcJNeBOzJdApeL_wMuLwVzhM4DTRQ7PEjI_xq0hN9ZqbzIok1WJwEzk1FbmuhUZb_H
+
+{
+ "to": "Token",
+"notification": {
+"body": "Hello",
+ "title": "This is test message."
+  }
+}
+
+
+
+//Response//
+
+{
+  "multicast_id": 6034298242136912044,
+  "success": 1,
+  "failure": 0,
+  "canonical_ids": 0,
+  "results": [
+    {
+      "message_id": "73343e89-a9bc-4411-9c37-fa1dbd74fc28"
+    }
+  ]
+}
